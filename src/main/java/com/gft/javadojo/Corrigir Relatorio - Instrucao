@@ -22,4 +22,5 @@
  * - No caso de haver linha totalmente igual, apenas a primeira das linhas deve aparecer no relatório.
  * 
  * - Deve ser possível escolher a ordem de listagem dos dados por [Id] ou por [Nome].
+ * - Criar um filtro de pesquisa por nome particial.
  */
